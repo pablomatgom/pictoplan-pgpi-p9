@@ -26,7 +26,7 @@ Equipo **PM&GA S.L.**: Pablo Maté Gómez y Germán Álvarez Gavilán.
 4. Con las dos tareas en `main` se etiqueta la versión **v1.0**.
 5. Se conecta el repositorio con Jira, se crea una incidencia y se corrige en una rama con su clave (`CLAVE-XX`), y se etiqueta **v1.1**.
 
-Convención de commits: mensaje corto en español; los de incidencias empiezan por la clave de Jira (`CLAVE-XX Resumen`).
+Las normas de ramas, commits y uniones están en [CONTRIBUTING.md](CONTRIBUTING.md). Los commits de incidencias empiezan por la clave de Jira (`CLAVE-XX Resumen`).
 
 ## Versiones
 
