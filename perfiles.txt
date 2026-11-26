@@ -1,5 +1,3 @@
-Perfiles configurables por estudiante (simulación de código)
-
-colores: por defecto
+colores: configurables por estudiante
 tipografía: por defecto
-vista: diaria
+vista: diaria o semanal
