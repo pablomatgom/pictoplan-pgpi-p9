@@ -1,0 +1,4 @@
+colores: configurables por estudiante
+tipografía: por defecto
+vista: diaria o semanal
+audio: activable por estudiante
