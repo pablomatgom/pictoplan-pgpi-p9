@@ -2,3 +2,4 @@ colores: configurables por estudiante
 tipografía: por defecto
 vista: diaria o semanal
 audio: activable por estudiante
+vista guardada: se conserva la vista semanal al volver a abrir el perfil
