@@ -1,1 +1,2 @@
 Tareas del centro: reprografía, comedor, menú (simulación de código)
+Reprografía: tarea por pasos con pictogramas
