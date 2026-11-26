@@ -1,3 +1,4 @@
 Roles: estudiante, tutor, administrador
 Cada estudiante tiene un tutor asignado
 Acceso sin contraseñas: código visual por imagen
+Administrador: puede asignar tareas a los estudiantes
