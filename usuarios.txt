@@ -1,4 +1,3 @@
-Usuarios, roles y perfiles (simulación de código)
-
 Roles: estudiante, tutor, administrador
+Cada estudiante tiene un tutor asignado
 Acceso sin contraseñas: código visual por imagen
