@@ -1,0 +1,4 @@
+Tareas del centro: reprografía, comedor, menú (simulación de código)
+Reprografía: tarea por pasos con pictogramas
+Comedor: registro de asistencia y dietas
+Guía de visita: códigos QR por zona
