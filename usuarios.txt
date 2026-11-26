@@ -1,0 +1,4 @@
+Usuarios, roles y perfiles (simulación de código)
+
+Roles: estudiante, tutor, administrador
+Acceso sin contraseñas: código visual por imagen
