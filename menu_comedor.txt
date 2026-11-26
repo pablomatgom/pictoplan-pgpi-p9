@@ -1,1 +1,2 @@
 Menú mensual: pendiente de cargar
+Menú: carga mensual desde un fichero
